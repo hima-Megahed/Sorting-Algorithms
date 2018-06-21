@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sorting", "Sorting\Sorting.vcxproj", "{95904B81-3F21-4226-8556-D45118E74394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95904B81-3F21-4226-8556-D45118E74394}.Debug|x64.ActiveCfg = Debug|x64
+		{95904B81-3F21-4226-8556-D45118E74394}.Debug|x64.Build.0 = Debug|x64
+		{95904B81-3F21-4226-8556-D45118E74394}.Debug|x86.ActiveCfg = Debug|Win32
+		{95904B81-3F21-4226-8556-D45118E74394}.Debug|x86.Build.0 = Debug|Win32
+		{95904B81-3F21-4226-8556-D45118E74394}.Release|x64.ActiveCfg = Release|x64
+		{95904B81-3F21-4226-8556-D45118E74394}.Release|x64.Build.0 = Release|x64
+		{95904B81-3F21-4226-8556-D45118E74394}.Release|x86.ActiveCfg = Release|Win32
+		{95904B81-3F21-4226-8556-D45118E74394}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49892814-F9ED-48E2-8234-555B2606CFA1}
+	EndGlobalSection
+EndGlobal
